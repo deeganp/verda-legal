@@ -4,9 +4,9 @@ Public hosting for Verda's legal documents, served via GitHub Pages.
 
 | Document | URL |
 |---|---|
-| Privacy Policy | https://deeganp.github.io/verda-legal/privacy/ |
-| Terms & Conditions | https://deeganp.github.io/verda-legal/terms/ |
-| Content Guidelines | https://deeganp.github.io/verda-legal/guidelines/ |
+| Privacy Policy | https://legal.verdaplatforms.com/privacy/ |
+| Terms & Conditions | https://legal.verdaplatforms.com/terms/ |
+| Content Guidelines | https://legal.verdaplatforms.com/guidelines/ |
 
 ## Updating
 
